@@ -12,7 +12,7 @@ This project is a 3D sign-in/sign-up page created using HTML and CSS. It provide
 To get started with this project, simply clone this repository to your local machine and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/your-username/3d-signin-signup.git
+git clone https://github.com/Yagna29/3d-signin-signup.git
 cd 3d-signin-signup
 
 ## Usage
